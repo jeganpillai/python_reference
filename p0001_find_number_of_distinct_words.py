@@ -1,3 +1,7 @@
+source1 = 'You have to find the number of words in this sentence and you print the number of words'
+source2 = 'How are you doing'
+source3 = ' '
+
 # brute force method 
 def helper1(source):
     target = []
