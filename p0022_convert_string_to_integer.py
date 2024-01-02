@@ -1,5 +1,5 @@
 # Question : Convert String to Integer
-# Video: https://www.youtube.com/watch?v=M_uxgF6ix5w
+# Video: https://www.youtube.com/watch?v=30AUX1j_Fzo
 
 def Grow_With_Data(str):
     str = str.strip()
