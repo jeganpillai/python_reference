@@ -1,6 +1,6 @@
 # Question: Find the largest number in an array
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=kBTNvTxoeuI
+# Tamil Video: https://www.youtube.com/watch?v=dCIIgh8q6NI
 
 # Approach 1: General FOR loop O(n)
 def Grow_With_Data(numbers):
