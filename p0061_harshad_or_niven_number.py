@@ -1,7 +1,7 @@
 # Question: Find if the given number is a Harshad number or not.
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=NUeHFLpG3-0
+# Tamil Video: https://www.youtube.com/watch?v=HmnQcHfFUxA
 
 # Approach 1: General Looping logic 
 def Grow_With_Data(num):
