@@ -1,7 +1,7 @@
 # Question: Find the existence of a substring in a string and its reverse
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=evPTZVln7Bo
+# Tamil Video: https://www.youtube.com/watch?v=vN_1bkvpIH0
 
 # Approach 1: Matching Substrings 
 def Grow_With_Data(s):
@@ -20,7 +20,6 @@ print('Passed!')
 # Approach 2: First Occurrence Search
 def Grow_With_Data(s):
     rev_s = ''.join(reversed(s))
-    result = []
     for i in range(len(s)-1):
         if s[i:i+2] in rev_s:
             return True
