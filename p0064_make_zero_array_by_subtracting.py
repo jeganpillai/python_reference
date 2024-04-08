@@ -1,7 +1,7 @@
 # Question: Make Zero Array By Subtracting equal amounts
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=qimYcESlqYE
+# Tamil Video: https://www.youtube.com/watch?v=ul1bvUtv6gY
 
 # Approach 1: Brute Force Method with FOR Loop 
 def Grow_With_Data(nums):
