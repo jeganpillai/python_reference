@@ -52,4 +52,10 @@ assert Grow_With_Data('ITS our GROW wiTH data') == 'Its Our Grow With Data'
 assert Grow_With_Data('ALWayS space FOR Improvement') == 'Always Space For Improvement'
 print('Passed!')
 
+# Approach 5: 
+def Grow_With_Data(s):
+    return ''.join([char.upper() if i == 0 or s[i-1] == ' ' else char.lower() for i, char in enumerate(s)])
+assert Grow_With_Data('ITS our GROW wiTH data') == 'Its Our Grow With Data'
+assert Grow_With_Data('ALWayS space FOR Improvement') == 'Always Space For Improvement'
+print('Passed!')
 
