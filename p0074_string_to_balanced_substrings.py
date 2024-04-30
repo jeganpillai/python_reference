@@ -9,7 +9,6 @@ def Grow_With_Data(s):
         if c == 'L': l += 1
         if l == r: count += 1
     return count
-Grow_With_Data(s)
 assert Grow_With_Data('RLRRLLRLRL') == 4
 assert Grow_With_Data('RLRRRLLRLL') == 2
 assert Grow_With_Data('LLLLRRRR') == 1
@@ -24,7 +23,6 @@ def Grow_With_Data(s):
         if c == 'L': balance -= 1
         if balance == 0: count += 1
     return count
-Grow_With_Data(s)
 assert Grow_With_Data('RLRRLLRLRL') == 4
 assert Grow_With_Data('RLRRRLLRLL') == 2
 assert Grow_With_Data('LLLLRRRR') == 1
@@ -39,7 +37,6 @@ def Grow_With_Data(s):
         balance += 1 if c == 'R' else -1
         if balance == 0: count += 1
     return count
-Grow_With_Data(s)
 assert Grow_With_Data('RLRRLLRLRL') == 4
 assert Grow_With_Data('RLRRRLLRLL') == 2
 assert Grow_With_Data('LLLLRRRR') == 1
