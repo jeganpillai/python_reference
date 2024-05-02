@@ -1,6 +1,6 @@
 -- Question: Find the three Longest Incoming and Outgoing Calls
 
--- English Video: 
+-- English Video: https://www.youtube.com/watch?v=V9NtB5a58wA
 -- Tamil Video: 
 
 # Approach 1: Brute force method of Iterative Comparison with Concatenation
@@ -16,7 +16,7 @@ def Grow_With_Data(word1, word2):
     for i in range(min_loop):
         if chk1[i] != chk2[i]:
             return False
-    return True
+    return len(chk1) == len(chk2)
 assert Grow_With_Data(["ab", "c", ], ["a", "bc" ] ) == True 
 assert Grow_With_Data(["a", "cb"], ["ab", "c" ]) == False
 assert Grow_With_Data(["abc", "d", "defg"], ["abcddefg"])  == True
