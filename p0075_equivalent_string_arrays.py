@@ -1,7 +1,7 @@
--- Question: Find the three Longest Incoming and Outgoing Calls
+# Question: Check if two string arrays are equivalent 
 
--- English Video: https://www.youtube.com/watch?v=V9NtB5a58wA
--- Tamil Video: https://www.youtube.com/watch?v=WWM_7fYTZ5o
+# English Video: https://www.youtube.com/watch?v=V9NtB5a58wA
+# Tamil Video: https://www.youtube.com/watch?v=WWM_7fYTZ5o
 
 # Approach 1: Brute force method of Iterative Comparison with Concatenation
 def Grow_With_Data(word1, word2):
