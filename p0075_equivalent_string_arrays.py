@@ -30,9 +30,15 @@ def Grow_With_Data(word1, word2):
     if chk1 != chk2:
         return False
     return True
-Grow_With_Data(word1, word2)
+assert Grow_with_Data(["ab", "c"],["a", "bc" ]) == True
+assert Grow_with_Data(["a", "cb"],["ab", "c" ]) == False
+assert Grow_with_Data(["abc", "d", "defg"],["abcddefg"]) == True
+print('Passed!')
 
 # Approach 3: Concise Comparison Using Built-in Functions
 def Grow_With_Data(word1, word2):
     return ''.join(word1) == ''.join(word2)
-Grow_With_Data(word1, word2)
+assert Grow_with_Data(["ab", "c"],["a", "bc" ]) == True
+assert Grow_with_Data(["a", "cb"],["ab", "c" ]) == False
+assert Grow_with_Data(["abc", "d", "defg"],["abcddefg"]) == True
+print('Passed!')
