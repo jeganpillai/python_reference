@@ -1,7 +1,7 @@
 # Question: Find the total number of lines and width of last line in pixel
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=s9nSJSgGCxE
+# Tamil Video: https://www.youtube.com/watch?v=aTm-mX1infI
 
 # Approach 1: Simple approach to find the value 
 def Grow_With_Data(widths, s):
