@@ -17,7 +17,7 @@ def helper(input_value):
     reversed_output = ''
     for i in input_string:
         reversed_output = i + reversed_output
-    reverse_output = int(reversed_output.lstrip('0')) * -1 if input_value < 0 else 1
+    reverse_output = int(reversed_output.lstrip('0')) * (-1 if input_value < 0 else 1)
     
     return  reverse_output if -2**31 <= reverse_output <= 2**31 else 0
     
@@ -26,7 +26,7 @@ helper(input_value)
 # approach 2: simple code 
 input_value = -1230
 def helper(input_value):
-    output_data = int(str(abs(input_value))[::-1].lstrip('0')) * -1 if input_value < 0 else 1 
+    output_data = int(str(abs(input_value))[::-1].lstrip('0')) * (-1 if input_value < 0 else 1 )
     return output_data if -2147483648 <= output_data <= output_data else 0 
     
 helper(input_value)
@@ -39,6 +39,6 @@ def helper(input_data):
     for i in range(len(str(chk))):
         output_data = output_data*10 + chk%10
         chk = chk//10
-    output_data = output_data * -1 if input_data < 0 else 1
+    output_data = output_data * (-1 if input_data < 0 else 1)
     return output_data if -2147483648 <= output_data <= output_data else 0
 helper(input_data)
