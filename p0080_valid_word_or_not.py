@@ -66,3 +66,24 @@ assert Grow_With_Data('a3$e') == False
 assert Grow_With_Data('AhI') == True
 assert Grow_With_Data('UuE6') == False
 print('Passed!') 
+
+# Approach4: Using regular expression compile
+import re
+
+def is_valid_word(word):
+    if len(word) < 3:
+        return False
+    
+    alphanumeric_pattern = re.compile(r'^[a-zA-Z0-9]+$')
+    if not alphanumeric_pattern.match(word):
+        return False
+    
+    vowel_pattern = re.compile(r'[aeiouAEIOU]')
+    if not vowel_pattern.search(word):
+        return False
+    
+    consonant_pattern = re.compile(r'[bcdfghjklmnpqrstvwxyzBCDFGHJKLMNPQRSTVWXYZ]')
+    if not consonant_pattern.search(word):
+        return False
+    
+    return True
