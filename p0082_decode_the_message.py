@@ -1,9 +1,9 @@
 # Question: Decode a message
 
 # English Video: https://www.youtube.com/watch?v=-aPTMm-JM7c
-# Tamil Video: 
+# Tamil Video: https://www.youtube.com/watch?v=d54QqWSSjd8
 
--- Approach 1: Basic looping logic
+# Approach 1: Basic looping logic
 def Grow_With_Data(key, message):
     dict_key = {}
     cnt = 0
@@ -23,7 +23,7 @@ assert Grow_With_Data('eljuxhpwnyrdgtqkviszcfmabo','zwx hnfx lqantp mnoeius ycgk
 print('Passed!')
 
 
--- Approach 2: Smarter coding 
+# Approach 2: Smarter coding 
 def Grow_With_Data(key, message):
     dict_key = {}
     cnt = 0
