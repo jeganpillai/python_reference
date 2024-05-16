@@ -1,6 +1,6 @@
 # Question: Decode a message
 
-# English Video: 
+# English Video: https://www.youtube.com/watch?v=-aPTMm-JM7c
 # Tamil Video: 
 
 -- Approach 1: Basic looping logic
@@ -18,8 +18,8 @@ def Grow_With_Data(key, message):
         else:
             result.append(dict_key[m])
     return ''.join(result)
-Grow_With_Data('thequickbrownfxjmpsvlazydg', 'vkbs bs t suepuv') == 'this is a secret'
-Grow_With_Data('eljuxhpwnyrdgtqkviszcfmabo','zwx hnfx lqantp mnoeius ycgk vcnjrdb') == 'the five boxing wizards jump quickly'
+assert Grow_With_Data('thequickbrownfxjmpsvlazydg', 'vkbs bs t suepuv') == 'this is a secret'
+assert Grow_With_Data('eljuxhpwnyrdgtqkviszcfmabo','zwx hnfx lqantp mnoeius ycgk vcnjrdb') == 'the five boxing wizards jump quickly'
 print('Passed!')
 
 
@@ -35,6 +35,6 @@ def Grow_With_Data(key, message):
     for m in message:
         result.append(m if m == ' ' else dict_key[m])
     return ''.join(result)
-Grow_With_Data('thequickbrownfxjmpsvlazydg', 'vkbs bs t suepuv') == 'this is a secret'
-Grow_With_Data('eljuxhpwnyrdgtqkviszcfmabo','zwx hnfx lqantp mnoeius ycgk vcnjrdb') == 'the five boxing wizards jump quickly'
+assert Grow_With_Data('thequickbrownfxjmpsvlazydg', 'vkbs bs t suepuv') == 'this is a secret'
+assert Grow_With_Data('eljuxhpwnyrdgtqkviszcfmabo','zwx hnfx lqantp mnoeius ycgk vcnjrdb') == 'the five boxing wizards jump quickly'
 print('Passed!')
