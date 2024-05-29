@@ -29,6 +29,7 @@ def Grow_With_Data(word):
             output += str(min(val,9))+key
             val -= 9       
     return output
+Grow_With_Data(word)
 
 # scope 3: Maintain the Order of Characters
 word = 'mrm'                  # '1m1r1m'
