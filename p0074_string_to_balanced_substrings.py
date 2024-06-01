@@ -1,5 +1,8 @@
 # Question: Split a balanced string into balanced substrings
 
+# English Video: https://www.youtube.com/watch?v=7Ixy_sInOvc
+# Tamil Video: https://www.youtube.com/watch?v=BYBJp8qM4FQ
+
 # Approach 1: Track L and R separatly 
 def Grow_With_Data(s):
     l, r = 0, 0
