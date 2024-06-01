@@ -1,5 +1,7 @@
 # Question: Find the product of array except self
-# Video: https://www.youtube.com/watch?v=u9rIXMfFlf8
+
+# English Video: https://www.youtube.com/watch?v=u9rIXMfFlf8
+# Tamil Video: https://www.youtube.com/watch?v=e7hBN69lTkA
 
 # Approach 0: (Wrong code) Wrong code for arrays with Zero element 
 def Grow_With_Data(N):
