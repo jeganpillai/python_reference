@@ -1,7 +1,7 @@
 # Question: String Compression Algorithm
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=tjfG7bjGrYc
+# Tamil Video: https://www.youtube.com/watch?v=tjfG7bjGrYc
 
 # Scope 1: Concatenate the Number of Occurrences Followed by the Character
 word = 'abcde'           # '1a1b1c1d1e'
