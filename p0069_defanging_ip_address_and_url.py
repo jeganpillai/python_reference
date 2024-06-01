@@ -1,7 +1,7 @@
 # Question: Defanging an IP Address or URL
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=ScSKprVwNLI
+# Tamil Video: https://www.youtube.com/watch?v=hucA5witpC4
 
 # Approach 1: Using FOR loop 
 def Grow_With_Data(address):
