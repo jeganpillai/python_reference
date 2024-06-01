@@ -1,7 +1,7 @@
 # Question: Find the index of the Words Containing specific Characters
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=JUVlCG3jvU0
+# Tamil Video: https://www.youtube.com/watch?v=pUkKCTVb8lA
 
 # Approach 1: Using range() function 
 def Grow_With_Data(words, x):
