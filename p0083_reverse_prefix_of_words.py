@@ -1,7 +1,7 @@
 # Question: Reverse prefix of words 
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=XqAQZSMzeY0
+# Tamil Video: https://www.youtube.com/watch?v=mgqrE-vs7SI
 
 # Approach 1: Using find() and String Slicing 
 def Grow_With_Data(word, ch):
