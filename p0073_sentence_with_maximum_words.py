@@ -1,7 +1,7 @@
 # Question: Find the maximum number of words that appear in a single sentence
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=ayVaaMFl9F8
+# Tamil Video: https://www.youtube.com/watch?v=XiB_qgAUbFI
 
 # Approach 1: Using Brute Force method 
 def Grow_With_Data(sentences):
