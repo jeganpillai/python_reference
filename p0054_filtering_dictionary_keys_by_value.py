@@ -1,5 +1,7 @@
 # Question: filtering dictionary keys by value
-# Video: https://www.youtube.com/watch?v=13cHR4ucRYg
+
+# English Video: https://www.youtube.com/watch?v=13cHR4ucRYg
+# Tamil Video: https://www.youtube.com/watch?v=VfpZVSp5avU
 
 # *** Approach 1: Simple looping option *** 
 d = {'Apple':'Fruit', 'Strawberry':'Fruit', 'Peas':'Veggie', 'Tomato':'Veggie', 'Lettuce':'Veggie'}
