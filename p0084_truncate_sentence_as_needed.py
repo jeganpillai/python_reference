@@ -1,7 +1,7 @@
 # Question: Truncate Sentence as Needed
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=gZ88hXMu7IM
+# Tamil Video: https://www.youtube.com/watch?v=jQWex4Ad7T0
 
 # Approach 1: Brute Force Method 
 def Grow_with_data(s, k):
