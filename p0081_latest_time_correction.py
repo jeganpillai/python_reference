@@ -1,7 +1,7 @@
 # Question: Find the given word is valid or not
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=G8owWNIv_VU
+# Tamil Video: https://www.youtube.com/watch?v=Npqm9WAVPUo
 
 # Approach 1: Brute force method using FOR loop 
 def Grow_With_Data(s):
