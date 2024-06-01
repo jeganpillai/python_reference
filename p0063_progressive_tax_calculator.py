@@ -1,7 +1,7 @@
 # Question: Build a progressive tax calculator
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=0HeyS1Z2OZY
+# Tamil Video: https://www.youtube.com/watch?v=nFEnGwp-wkY
 
 def Grow_With_Data(income, bracket):
     total_tax = 0
