@@ -1,7 +1,7 @@
 # Question: Given two strings, merge the strings by adding letters in alternating order
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=hWJTElXQ4Fw
+# Tamil Video: https://www.youtube.com/watch?v=QCtFibRPfY8
 
 # Approach 1: Basic FOR loop 
 def Grow_With_Data(word1, word2):
