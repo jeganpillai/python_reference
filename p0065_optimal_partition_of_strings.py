@@ -1,5 +1,8 @@
 # Question: Partition the string into one or more substrings in optimal way
 
+# English Video: https://www.youtube.com/watch?v=c96RhvLn5LQ
+# Tamil Video: https://www.youtube.com/watch?v=47PWepxTilo
+
 # Approach 1: Iterative Approach with Unique Character Tracking
 def Grow_With_Data(s):
     chk = set()
