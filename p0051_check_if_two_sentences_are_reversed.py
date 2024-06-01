@@ -1,5 +1,7 @@
 # Question: Check if two sentences are reversed
-# Video: https://www.youtube.com/watch?v=uX9-G8hJHak
+
+# English Video: https://www.youtube.com/watch?v=uX9-G8hJHak
+# Tamil Video: https://www.youtube.com/watch?v=XIuZA3SS4vQ
 
 # *** Approach 1: General FOR loop *** 
 def Grow_With_Data(sentence1,sentence2):
