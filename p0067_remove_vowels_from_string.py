@@ -1,7 +1,7 @@
 # Question: Remove Vowels from a given string
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=Ks7FSG6RAhk
+# Tamil Video: https://www.youtube.com/watch?v=75PEumDB2mw
 
 # Approach 1: General FOR loop
 def Grow_With_Data(s):
