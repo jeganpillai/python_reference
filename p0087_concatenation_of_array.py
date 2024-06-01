@@ -1,7 +1,7 @@
 # Question: Concatenation of Array
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=F8X1M0v0FO4
+# Tamil Video: https://www.youtube.com/watch?v=e2_HUAPeVYA
 
 # Approach 1a: Basic FOR Loop 
 def Grow_With_Data(nums):
