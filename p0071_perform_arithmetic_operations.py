@@ -1,7 +1,7 @@
 # Question: Perform Arithmetic Operation and report final value of input variable
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=FSqM6scia90
+# Tamil Video: https://www.youtube.com/watch?v=cXNYN5ZO0uM
 
 # Approach 1: Using OR function 
 def Grow_With_Data(operations):
