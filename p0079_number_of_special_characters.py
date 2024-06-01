@@ -1,7 +1,7 @@
 # Question: Find the number of special characters in a given string.
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=20bFRdVoVSE
+# Tamil Video: https://www.youtube.com/watch?v=LSYBZq1nyD4
 
 # Scenario 1: Consider only distinct pairs 
 def count_special_letters(word):
