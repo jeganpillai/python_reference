@@ -1,7 +1,7 @@
 # Question: Find the length of the longest consecutive sequence of available seats in the cinema
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=LdBCdae1OuE
+# Tamil Video: https://www.youtube.com/watch?v=5v9FOAC629I
 
 def Grow_With_Data(cinema):
     max_length = 0
