@@ -1,7 +1,7 @@
 # Question: Find the given word is valid or not
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=N9hfhcGMJUY
+# Tamil Video: https://www.youtube.com/watch?v=6IjqzM2Gt5U
 
 # Approach 1: Check individual condition
 def Grow_With_Data(word):
