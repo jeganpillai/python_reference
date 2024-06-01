@@ -1,5 +1,7 @@
 # Question: Find the intersection of two arrays 
-# Video: https://www.youtube.com/watch?v=7JYcOcZlllY
+
+# English Video: https://www.youtube.com/watch?v=7JYcOcZlllY
+# Tamil Video: https://www.youtube.com/watch?v=KvnYLbJuTA0
 
 a1 = [1,3,4,7,11,107]
 a2 = [2,3,11,19]
