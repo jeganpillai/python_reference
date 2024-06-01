@@ -1,5 +1,7 @@
 # Question: Check if the sentence is pangram.
-# Video: https://www.youtube.com/watch?v=rSRkiDKfbNY
+
+# English Video: https://www.youtube.com/watch?v=rSRkiDKfbNY
+# Tamil Video: https://www.youtube.com/watch?v=nOJJEzv_68U
 
 sentence = "thequickbrownfoxjumpsoverthelazydog"
 sentence = "growwithdata"
