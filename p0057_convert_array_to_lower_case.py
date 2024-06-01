@@ -1,5 +1,7 @@
 # Question: Given a array of words, convert all the elements to its lower case 
-# video: https://www.youtube.com/watch?v=ytX0DecMdmU
+
+# English Video: https://www.youtube.com/watch?v=ytX0DecMdmU
+# Tamil Video: https://www.youtube.com/watch?v=mVlCjYAIuhI
 
 # Approach 1: Using FOR loop 
 def Grow_With_Data(s):
