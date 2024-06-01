@@ -1,7 +1,7 @@
 # Question: Find the Score of a String
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=uIkE51XKVKg
+# Tamil Video: https://www.youtube.com/watch?v=S7nCcujjBi0
 
 # Approach 1: Using enumerate function 
 def Grow_With_Data(s):
