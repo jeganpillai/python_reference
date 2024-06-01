@@ -1,6 +1,7 @@
 # Question: Find the largest digit in an number sequence.
-# English Video:
-# Tamil Video: 
+
+# English Video: https://www.youtube.com/watch?v=YadOFpcwJi0
+# Tamil Video: https://www.youtube.com/watch?v=4Kk9JEmgjlo
 
 # Approach 1: Convert to string and find the largest
 def Grow_With_Data(num):
