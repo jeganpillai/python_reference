@@ -1,5 +1,7 @@
 # Question: create a new list that contains all the prime numbers from the given list that are less than the threshold given.
-# Video: https://www.youtube.com/watch?v=_ZxJ6Hf187c
+
+# English Video: https://www.youtube.com/watch?v=_ZxJ6Hf187c
+# Tamil Video: https://www.youtube.com/watch?v=_ZxJ6Hf187c
 
 # Approach 1: Simple Looping Logic
 def Grow_With_Data(input_list, num):
