@@ -1,7 +1,7 @@
 # Question: Remove Duplicates from Sorted Array
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=yszE93DYefQ
+# Tamil Video: https://www.youtube.com/watch?v=YQhWfLrN5Ig
 
 # Approach 1: In-place approach with additional set() data type
 def Grow_With_Data(nums):
