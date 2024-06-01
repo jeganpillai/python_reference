@@ -1,7 +1,7 @@
 # Question: Find the Number of Segments in a String
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=9pHxrihHmz4
+# Tamil Video: https://www.youtube.com/watch?v=_MCSMbRAJDg
 
 # Approach 1: Looping logic 
 def Grow_With_Data(s):
