@@ -1,7 +1,7 @@
 # Question: Sort Only the Vowels present in the string
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=ZBUh6I5pCJ8
+# Tamil Video: https://www.youtube.com/watch?v=2seZ5WJUlFY
 
 # Approach 1: Using FOR loop
 def Grow_With_Data(s):
