@@ -15,7 +15,7 @@ def Grow_With_Data(s):
         if cnt > max_cnt:
             max_cnt = cnt
     return max_cnt
-Grow_With_Data(s)
+
 assert Grow_With_Data('ELEELEELLL') == 3
 assert Grow_With_Data('EEEEEEE')    == 7
 assert Grow_With_Data('ELELEEL')    == 2 
@@ -28,7 +28,7 @@ def Grow_With_Data(s):
         cnt += 1 if i == 'E' else -1
         max_cnt = max(max_cnt,cnt)
     return max_cnt
-Grow_With_Data(s)
+
 assert Grow_With_Data('ELEELEELLL') == 3
 assert Grow_With_Data('EEEEEEE')    == 7
 assert Grow_With_Data('ELELEEL')    == 2 
