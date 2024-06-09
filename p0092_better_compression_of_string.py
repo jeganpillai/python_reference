@@ -1,7 +1,7 @@
 # Question: Better Compression of String
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=nAclkwg7o0A
+# Tamil Video: https://www.youtube.com/watch?v=B3mG_c49R6w
 
 # Approach 1: Basic looping logic 
 def Grow_With_Data(compressed):
