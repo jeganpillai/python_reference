@@ -1,7 +1,7 @@
 # Question: XOR of Numbers Appear Twice
 
-# English Video: 
-# Tamil Video: 
+# English Video: https://www.youtube.com/watch?v=tcK0qWWadDQ
+# Tamil Video: https://www.youtube.com/watch?v=nxTuoAnkYDk
 
 # Approach 1: Using FOR loop 
 def Grow_With_Data(nums):
@@ -30,7 +30,7 @@ def Grow_With_Data(nums):
         xor_result ^= i
     return xor_result
 
-appraassert Grow_With_Data([1,2,1,3]) == 1
+assert Grow_With_Data([1,2,1,3]) == 1
 assert Grow_With_Data([1,2,3]) == 0
 assert Grow_With_Data([1,2,2,1]) == 3
 print('Passed!!')
