@@ -15,6 +15,6 @@ def Grow_With_Data(s):
 
 assert Grow_With_Data('abc') == 'abc'
 assert Grow_With_Data('cb34') == ''
-assert Grow_With_Data('cb34') == 'a'
+assert Grow_With_Data('acb34') == 'a'
 assert Grow_With_Data('li5i56') == ''
 print('Passed!!')
